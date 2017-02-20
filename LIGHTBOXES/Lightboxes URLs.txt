@@ -1,0 +1,9 @@
+
+Lightbox:
+
+http://lokeshdhakar.com/projects/lightbox2/
+
+
+Fancybox:
+
+http://fancyapps.com/fancybox/
