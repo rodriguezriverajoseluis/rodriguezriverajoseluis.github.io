@@ -1,0 +1,585 @@
+html,body
+
+{
+margin: 0px;
+
+padding: 0px;
+
+width: 100%;
+
+height: 100%;
+
+min-width: 100%;
+
+min-height: 100%;
+
+background-image: url("imagenes/saco2.jpg");
+
+
+}
+
+
+
+header, nav, content, article, section, aside, footer
+
+{
+display: block;
+
+}
+
+#contenido_nosotros
+{
+width: 69%;
+height: 25%;
+background-image: url("imagenes/fondo_del_contenido.png");
+border-radius: 25px;
+position: absolute;
+margin-left: 200px;
+}
+
+
+#contenido_historia
+{
+width: 69%;
+height: 1125px;
+
+border-radius: 25px;
+background-image: url("imagenes/fondo_del_contenido.png");
+position: absolute;
+margin-left: 200px;
+}
+
+
+
+#contenido_producto
+{
+width: 100%;
+height: 80%;
+
+border-radius: 25px;
+background-image: url("imagenes/fondo_del_contenido.png");
+position: absolute;
+margin-left: 200px;
+}
+
+
+#contenido_contacto
+{
+width: 69%;
+height: 65%;
+
+border-radius: 25px;
+background-image: url("imagenes/fondo_del_contenido.png");
+position: absolute;
+margin-left: 200px;
+}
+
+
+
+#contenido_productos
+{
+width: 60%;
+height: 650px;
+border-radius: 25px;
+background-image: url("imagenes/fondo_del_contenido.png");
+position: absolute;
+margin-left: 300px;
+}
+
+
+
+#contenido_galeria
+{
+width: 58%;
+height: 1310px;
+background-image: url("imagenes/fondo_del_contenido.png");
+border-radius: 25px;
+position: absolute;
+margin-left: 300px;
+
+}
+
+
+p
+
+{
+
+font-size: 18pt;
+
+color: #ffffff;
+
+margin: 19px 20px;
+
+pading: 10px;
+
+}
+
+
+
+
+#derecha
+
+{
+
+width: 200px;
+
+height:  100%;
+
+background-image: url("imagenes/derecha.png");
+
+float: right;
+
+}
+
+#izquierda
+
+{
+
+width: 200px;
+
+height:  100%;
+
+background-image: url("imagenes/izquierda.png");
+
+float: left;
+
+}
+
+#titulo
+
+{
+
+width: 100%;
+
+min-width:200px;
+
+height:  80px;
+
+background-color: #000000;
+
+background-image: url("imagenes/mis_abuelos_font.png");
+
+background-repeat: no-repeat;
+
+
+}
+
+#titulo_nosotros
+
+{
+
+width: 100%;
+
+min-width:200px;
+
+height:  80px;
+
+background-color: #000000;
+
+background-image: url("imagenes/mis_abuelos_font.png");
+
+background-repeat: no-repeat;
+
+
+}
+
+#titulo_historia
+{
+
+width: 100%;
+
+min-width:200px;
+
+height:  80px;
+
+background-color: #000000;
+
+background-image: url("imagenes/mis_abuelos_font.png");
+
+background-repeat: no-repeat;
+
+
+}
+
+#titulo_galeria
+{
+
+width: 100%;
+
+min-width:200px;
+
+height:  80px;
+
+background-color: #000000;
+
+background-image: url("imagenes/mis_abuelos_font.png");
+
+background-repeat: no-repeat;
+
+
+}
+nav
+
+{
+
+width: 100%;
+
+height: 85px;
+
+margin-top: 20px;
+
+}
+	
+
+
+content
+
+{
+
+width: 100%;
+
+height: 500px;
+
+
+}
+
+.link
+{
+width: 110px;
+height: 65px;
+text-align: center;
+background-image: url("imagenes/grano_solo.png");
+background-position: center;
+background-repeat: no-repeat;
+float: left;
+border: 1px;
+-webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.link:hover
+
+ {
+    -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+    transform: rotate(360deg);
+}
+
+
+#taza
+
+{
+
+width: 650px;
+
+min-width: 200px;
+
+height:  464px;
+
+margin-left: 600px;
+
+background-image: url("imagenes/tazahumo.png");
+
+background-repeat: no-repeat;
+
+}
+
+#parcho
+
+{
+
+width: 534px;
+
+min-width: 300px;
+
+height:  140px;
+
+background-image: url("imagenes/parcho.png");
+
+background-repeat: no-repeat;
+
+
+float: left;
+
+margin-top: 45px;
+
+
+}
+
+
+
+a
+{
+color: #ffffff;
+font-family: "Baskerville Old Face";
+font-size: 23px;
+text-decoration: none;
+
+}
+
+
+a:visited
+
+
+{
+
+
+color: #ffffff;
+
+
+}
+
+
+
+a:hover 
+
+
+{
+
+
+color: #ffff00;
+
+
+}
+
+
+h3
+
+{
+font-size: 13pt;
+color: ffffff;
+}
+
+
+
+
+
+
+
+
+
+a:active
+
+
+{
+
+color: #ff0000;
+
+
+}
+
+
+
+
+h2
+
+{
+
+font-size: 11pt;
+
+color: #e8aa11;
+
+margin: 10px 80px
+
+}
+#recogimiento
+
+{
+width: 696px;
+height: 89px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+header
+
+{
+
+width: 100%;
+
+height: 30px;
+
+background-image: url("imagenes/header.png");
+
+}
+
+
+
+
+
+
+
+#identidad_der
+
+{
+
+margin-top: 109px;
+
+width: 181px;
+
+height: 100%;
+
+background-image: url("imagenes/granos_cafe_derecha2.png");
+
+float: right;
+
+}
+
+#identidad_izq
+
+{
+
+margin-top: 109px;
+
+width: 180px;
+
+height: 100%;
+
+background-image: url("imagenes/granos_cafe_izquierda2.png");
+
+float: left;
+
+}
+
+h3
+{
+font-size: 11pt;
+
+color: #ffffff;
+
+margin: 10px 80px
+
+
+}
+h1
+{
+font-size: 24pt;
+
+color: #ffffff;
+
+margin: 10px 80px
+
+
+}
+
+
+#paquete_blanco
+
+{
+width: 100%px;
+height:300px;
+background-image: url("imagenes/productos_para_vender.png");
+background-repeat: no-repeat;
+}
+#paquete_blanco2
+{
+width: 100%px;
+height:300px;
+background-image: url("imagenes/productos_para_vender2.png");
+background-repeat: no-repeat;
+margin-top: 50px;
+}
+#cuadricula
+
+
+
+
+{
+
+width: 100%;
+
+
+
+min-width: 500px;
+
+
+
+
+height: 80%;
+
+
+
+min-height: 550px;
+
+
+
+ 
+
+
+
+
+/*-----estos margenes sirven pa centralizar-----*/
+
+
+
+
+margin-left: auto;
+
+
+
+
+
+margin-right: auto;
+
+
+
+
+
+
+
+padding: 20px;
+
+
+
+
+background-image: url("imagenes/
+fondo_del_contenido.png"); 
+
+
+}
+
+
+
+#envoltura
+
+{
+
+width: 100%;
+
+height: 1500px;
+
+min-height: 460px;
+margin-left: auto;
+
+margin-right: auto;
+
+
+
+
+background-image: url("imagenes/
+fondo_del_contenido.png"); 
+
+
+
+
+}
+
+
+
+
+.thumbnails
+
+
+
+{
+
+float: left;
+
+margin: 28px;
+
+padding: 20px 20px;
+
+background-color: #000000;
+
+border-radius: 15px;
+}
